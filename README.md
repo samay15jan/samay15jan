@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samay Kumar
 ===================================================================================================================================
 
-Front End Developer
+Front End Developer...kinda
 -------------------
 
 Professional procrastinator seeking a coding breakthrough. Master of the Ctrl+C, Ctrl+V dance moves. My code has a magnetic personality—it attracts bugs effortlessly. And yes, I do have a black belt in debugging. GitHub is my playground, showcasing the wild adventures of my coding journey. Don't worry; I haven't lost my mind. It's backed up on GitHub, just in case....
