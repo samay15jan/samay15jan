@@ -20,22 +20,14 @@ As a front-end developer, I am proficient in HTML, CSS, and JavaScript, allowing
 </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.github.com/samay15jan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/samay15jan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/samay15jan"><img src="https://github-readme-stats.vercel.app/api?username=samay15jan&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="samay15jan's GitHub stats" /></a>
-
-<a href="http://www.github.com/samay15jan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=samay15jan&bg_color=181824&color=ffffff&line=ffffff&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/samay15jan/arch-install" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=arch-install&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/samay15jan/storage-box" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=storage-box&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/samay15jan/arch-install" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=arch-install&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/samay15jan/storage-box" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=storage-box&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/samay15jan/homepage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=homepage&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/samay15jan/samay15jan.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=samay15jan.github.io&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div>
