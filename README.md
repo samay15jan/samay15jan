@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-As a front-end developer, I am proficient in HTML, CSS, and JavaScript, allowing me to create visually appealing and interactive user interfaces. With my skills, I can transform design mockups into fully functional websites, ensuring an engaging and seamless user experience.
+Professional procrastinator seeking a coding breakthrough. Master of the Ctrl+C, Ctrl+V dance moves. My code has a magnetic personality—it attracts bugs effortlessly. And yes, I do have a black belt in debugging. GitHub is my playground, showcasing the wild adventures of my coding journey. Don't worry; I haven't lost my mind. It's backed up on GitHub, just in case....
+
 
 *   🌍  I'm based in Punjab, India
 *   ✉️  You can contact me at [samay15jan@gmail.com](mailto:samay15jan@gmail.com)
 *   🚀  I'm currently working on [Journaling Website](http://github.com/samay15jan/ThoughtScape)
 *   🧠  I'm learning Javascript
-*   ⚡  Why do programmers prefer dark mode? Because the light attracts bugs!
+*   ⚡  Hmm...You are really reading this. WOW!
 
 ### Skills 
 <p align="left">
@@ -21,10 +22,6 @@ As a front-end developer, I am proficient in HTML, CSS, and JavaScript, allowing
                    
 
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/samay15jan"><img src="https://github-readme-stats.vercel.app/api?username=samay15jan&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="samay15jan's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
