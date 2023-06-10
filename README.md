@@ -26,8 +26,6 @@ As a front-end developer, I am proficient in HTML, CSS, and JavaScript, allowing
 
 <a href="http://www.github.com/samay15jan"><img src="https://github-readme-stats.vercel.app/api?username=samay15jan&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="samay15jan's GitHub stats" /></a>
 
-<a href="https://github.com/samay15jan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samay15jan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/samay15jan/storage-box" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=samay15jan&repo=storage-box&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div>
