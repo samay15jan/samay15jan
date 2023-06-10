@@ -9,7 +9,7 @@ Professional procrastinator seeking a coding breakthrough. Master of the Ctrl+C,
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [samay15jan@gmail.com](mailto:samay15jan@gmail.com)
-*   🚀  I'm currently working on [Journaling Website](http://github.com/samay15jan/ThoughtScape) Am i?
+*   🚀  I'm currently working on [Journaling Website](http://github.com/samay15jan/ThoughtScape)
 *   🧠  I'm learning javascript
 
 ### Skills 
