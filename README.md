@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Javascript<br>🎯 Goals: Mastering frontend development by the end of 2023<br>🎲 Fun fact: Wait...Stack Overflow had a homepage ?</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Mastering frontend development by the end of 2023<br>🎲 Fun fact: Wait...Stack Overflow had a homepage?</p>
 
 ###
 
@@ -21,6 +21,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
@@ -47,5 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samay15jan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=samay15jan&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=25&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/samay15jan/samay15jan/output/snake.svg" alt="Snake animation" />
 
 ###
