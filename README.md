@@ -1,18 +1,12 @@
-<h1 align="left">Hey 👋 My name is Samay Kumar</h1>
+# 👋 Hello, I'm Samay Kumar
 
-###
+I'm a Front End Developer... kind of!
 
-<h3 align="left">Front End Developer...kinda</h3>
+👨‍💻 Professional procrastinator on a mission to unlock the code wizard within. My Ctrl+C, Ctrl+V skills are top-notch, and my code has an uncanny ability to attract bugs. Welcome to my GitHub playground, where I document the thrilling adventures of my coding journey. Don't worry; I haven't lost my mind. It's securely backed up on GitHub, just in case... 😉
 
-###
-
-<p align="left">Professional procrastinator seeking a coding breakthrough. Master of the Ctrl+C, Ctrl+V dance moves. My code has a magnetic personality—it attracts bugs effortlessly. GitHub is my playground, showcasing the wild adventures of my coding journey. Don't worry; I haven't lost my mind. It's backed up on GitHub, just in case....</p>
-
-###
-
-<br clear="both">
-
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React<br>🎯 Goals: Mastering frontend development by the end of 2023<br>🎲 Fun fact: Wait...Stack Overflow had a homepage?</p>
+✨ Creating bugs since 2022
+📚 Currently diving deep into React
+🎯 Goal: Master frontend development by the end of 2023
 
 ###
 
