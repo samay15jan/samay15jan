@@ -2,11 +2,9 @@
 
 I'm a Front End Developer... kind of!
 
-👨‍💻 Professional procrastinator on a mission to unlock the code wizard within. My Ctrl+C, Ctrl+V skills are top-notch, and my code has an uncanny ability to attract bugs. Welcome to my GitHub playground, where I document the thrilling adventures of my coding journey. Don't worry; I haven't lost my mind. It's securely backed up on GitHub, just in case... 😉
-
-✨ Creating bugs since 2022
-📚 Currently diving deep into React
-🎯 Goal: Master frontend development by the end of 2023
+* ✨ Creating bugs since 2022
+* 📚 Currently diving deep into React
+* 🎯 Goal: Master frontend development by the end of 2023
 
 ###
 
