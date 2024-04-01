@@ -1,45 +1,36 @@
+<h1 align="center">HI, I'm Samay Kumar</h1>
+<h3 align="center">I'm a Full Stack Developer... kind of!</h3>
 
-# 👋 Hi, I'm Samay Kumar
+<h5 align="center">
 
-####  I'm a Front End Developer... kind of!
+✨ Creating bugs since 2022 <br>
 
-* ✨ Creating bugs since 2022
-* 🔭 Currently learning Next.js
-* 🎯 Goal: 404 NOT FOUND ⚠️
+🔭 I’m currently working on [Sparklines](https://github.com/samay15jan/sparklines)<br>
 
-<h3>Skills</h3>
-<a  href="https://nextjs.org/"  target="_blank"  rel="noreferrer">
-  <img  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  alt="nextjs"  width="40"  height="40"  />
-</a>
+🎩 Ta-da! My [Portfolio](https://codedbysamay.onrender.com)<br>
 
-<a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="40"  height="40"  />
-</a>
+🚀 Learning Express, MongoDB and Typescript
 
-<a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"  />
-</a>
+</h5>
+<br>
+<h1 align="center">
 
-<a  href="https://redux.js.org"  target="_blank"  rel="noreferrer">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"  />
-</a>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb)
+![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)
+![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5)<br><br>
 
-<a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">
-  <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind"  width="40"  height="40"  />
-</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samay15jan&theme=omni&hide_border=true)<br>
 
-<a  href="https://firebase.google.com/"  target="_blank"  rel="noreferrer">
-  <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  alt="firebase"  width="40"  height="40"  />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samay15jan&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"  />
-</a>
+[![](https://visitcount.itsvg.in/api?id=samay15jan&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
+</h1>
 
-<a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">
-  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"  />
-</a>
-
-<a  href="https://www.linux.org/"  target="_blank"  rel="noreferrer">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  alt="linux"  width="40"  height="40"  />
-</a>
+---
