@@ -1,36 +1,64 @@
-<h1 align="center">HI, I'm Samay Kumar</h1>
-<h3 align="center">I'm a Full Stack Developer... kind of!</h3>
+<p align="center">
+  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="150" style="vertical-align: middle; margin-right: -20px;" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" style="vertical-align: middle;" />
+</p>
+<br/>
+I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
+Started writing code in 2022 — and honestly, still creating bugs with style.  
 
-<h5 align="center">
+I’ve spent the last few years exploring **frontend**, **backend**, and **systems**,  
+and now I’m moving toward **cloud**, **automation**, and **DevOps**.  
 
-✨ Creating bugs since 2022 <br>
+I like things that run fast, look clean, and make sense.  
+I enjoy breaking stuff to understand it better, automating small annoyances,  
+and documenting what I learn along the way.  
 
-🔭 I’m currently working on [Sparklines](https://github.com/samay15jan/sparklines)<br>
+Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers of the web...  
 
-🎩 Ta-da! My [Portfolio](https://codedbysamay.onrender.com)<br>
+> learning, unlearning, rebuilding — in public.
 
-🚀 Learning Express, MongoDB and Typescript
+##### Some blogs I’ve written:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-</h5>
-<br>
+<br/>
+
+---
+
+<br/>
+
 <h1 align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb)
-![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
 ![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)
-![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=blue)
-![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5)<br><br>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
+![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash)
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker)
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux)
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
+
+![Arch Linux](https://img.shields.io/badge/arch%20linux-%2320232a.svg?style=for-the-badge&logo=archlinux)
+![Hackintosh](https://img.shields.io/badge/hackintosh-%2320232a.svg?style=for-the-badge&logo=apple)
+![iOS Sideloading](https://img.shields.io/badge/iOS%20sideloading-%2320232a.svg?style=for-the-badge&logo=apple)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samay15jan&theme=omni&hide_border=true)<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samay15jan&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=samay15jan&label=Profile%20Views&color=11&icon=8&pretty=true)](https://visitcount.itsvg.in)
-</h1>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:samay15jan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/samay15jan/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/@samay15jan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5D3FD3?style=for-the-badge)](https://samay15jan.xyz/)
+[![Blog](https://img.shields.io/badge/Blog-0099CC?style=for-the-badge)](https://blog.samay15jan.xyz/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@samay15jan)
+[![Dev.to](https://img.shields.io/badge/Dev.to-333333?style=for-the-badge)](https://dev.to/samay15jan)
 
----
+<p align="center">✦ ✦ ✦</p>
