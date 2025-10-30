@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="75" />
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=60&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=40" />
-</p>
+<img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="110" /> <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" width=550 />
+
 I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
 Started writing code in 2022 — and honestly, still creating bugs with style.  
 
