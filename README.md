@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="150" style="vertical-align: middle; margin-right: -20px;" />
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=150&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" style="vertical-align: middle;" />
+  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="75" style="vertical-align: middle; margin-right: -20px;" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=75&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=50" style="vertical-align: middle;" />
 </p>
-<br/>
 I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
 Started writing code in 2022 — and honestly, still creating bugs with style.  
 
@@ -25,11 +24,7 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 - [Why I Started Blogging](https://dev.to/samay15jan/why-i-started-blogging-4o5p)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-
 ---
-
-<br/>
 
 <h1 align="center">
 
@@ -46,7 +41,7 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-%2320232a.svg?style=for-the-badge&logo=archlinux)
@@ -64,5 +59,3 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 [![Blog](https://img.shields.io/badge/Blog-0099CC?style=for-the-badge)](https://blog.samay15jan.xyz/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@samay15jan)
 [![Dev.to](https://img.shields.io/badge/Dev.to-333333?style=for-the-badge)](https://dev.to/samay15jan)
-
-<p align="center">✦ ✦ ✦</p>
