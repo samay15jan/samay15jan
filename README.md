@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="75" style="vertical-align: middle; margin-right: -20px;" />
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=75&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=50" style="vertical-align: middle;" />
+  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="75" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=60&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=40" />
 </p>
 I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
 Started writing code in 2022 — and honestly, still creating bugs with style.  
@@ -41,7 +41,7 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 ![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux)
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
 
 ![Arch Linux](https://img.shields.io/badge/arch%20linux-%2320232a.svg?style=for-the-badge&logo=archlinux)
