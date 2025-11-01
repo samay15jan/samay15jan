@@ -1,5 +1,9 @@
 <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="110" /> <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" width=550 />
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
 Started writing code in 2022 — and honestly, still creating bugs with style.  
 
@@ -14,6 +18,10 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 
 > learning, unlearning, rebuilding — in public.
 
+</td>
+<td width="40%" valign="top" align="left">
+
+
 ##### Some blogs I’ve written:
 <!-- BLOG-POST-LIST:START -->
 - [Breaking Into Apple’s Walled Garden &lpar;Almost&rpar;](https://dev.to/samay15jan/breaking-into-apples-walled-garden-almost-4a8m)
@@ -21,6 +29,10 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 - [Part 1: Getting Started With Linux](https://dev.to/samay15jan/part-1-getting-started-with-linux-4a6h)
 - [Why I Started Blogging](https://dev.to/samay15jan/why-i-started-blogging-4o5p)
 <!-- BLOG-POST-LIST:END -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,6 +61,8 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samay15jan&theme=omni&hide_border=true)<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samay15jan&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=samay15jan&count=1&header_size=compact&bg_color=191622)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:samay15jan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/samay15jan/)
