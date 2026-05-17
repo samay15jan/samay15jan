@@ -24,11 +24,11 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 
 ##### Some blogs I’ve written:
 <!-- BLOG-POST-LIST:START -->
+- [Building My Own Self-Hosted VPN Infrastructure](https://dev.to/samay15jan/building-my-own-self-hosted-vpn-infrastructure-kl9)
 - [AI Can Write Code, But Can It Ship an App? My Experiment](https://dev.to/samay15jan/ai-can-write-code-but-can-it-ship-an-app-my-experiment-2130)
 - [From Code to Production: Automating Deployment on Oracle Cloud](https://dev.to/samay15jan/from-code-to-production-automating-deployment-on-oracle-cloud-4pal)
 - [Breaking Into Apple’s Walled Garden &lpar;Almost&rpar;](https://dev.to/samay15jan/breaking-into-apples-walled-garden-almost-4a8m)
 - [How I Built a TUI Without Leaving the Terminal](https://dev.to/samay15jan/how-i-built-a-tui-without-leaving-the-terminal-1g0e)
-- [Part 1: Getting Started With Linux](https://dev.to/samay15jan/part-1-getting-started-with-linux-4a6h)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
