@@ -24,11 +24,11 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 
 ##### Some blogs I’ve written:
 <!-- BLOG-POST-LIST:START -->
+- [Coding Isn’t Dead. It Just Stopped Being My Favorite Part.](https://dev.to/samay15jan/coding-isnt-dead-it-just-stopped-being-my-favorite-part-pmd)
 - [Building a 3D Login Screen for Linux with LightDM WebKit2](https://dev.to/samay15jan/building-a-3d-login-screen-for-linux-with-lightdm-webkit2-lfn)
 - [How My Terminal Music Player Accidentally Became a Cloud Platform](https://dev.to/samay15jan/how-my-terminal-music-player-accidentally-became-a-cloud-platform-kn8)
 - [Building My Own Self-Hosted VPN Infrastructure](https://dev.to/samay15jan/building-my-own-self-hosted-vpn-infrastructure-kl9)
 - [AI Can Write Code, But Can It Ship an App? My Experiment](https://dev.to/samay15jan/ai-can-write-code-but-can-it-ship-an-app-my-experiment-2130)
-- [From Code to Production: Automating Deployment on Oracle Cloud](https://dev.to/samay15jan/from-code-to-production-automating-deployment-on-oracle-cloud-4pal)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
