@@ -1,28 +1,27 @@
-<img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="110" /> <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" width=550 />
+<div align="center">
+  <img src="https://github.com/samay15jan/samay15jan/blob/main/greet.gif?raw=true" width="110" alt="Greeting animation" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=timeGradient&text=...I%27m%20Samay%20Kumar&fontAlign=40&descAlign=0&descAlignY=0&animation=fadeIn&fontAlignY=70&reversal=true&fontColor=FFFFFF&fontSize=70" width="550" alt="I'm Samay Kumar" />
+</div>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I’m a **student and builder**, somewhere between code, clouds, and curiosity.  
-Started writing code in 2022 — and honestly, still creating bugs with style.  
+I'm a **student and builder**, focused on **cloud, infrastructure, Linux, and DevOps**.
+Started writing code in 2022, and I'm still creating bugs with style.
 
-I’ve spent the last few years exploring **frontend**, **backend**, and **systems**,  
-and now I’m moving toward **cloud**, **automation**, and **DevOps**.  
+I come from a **full-stack web development** background, and I've gradually moved from building software to understanding **where it runs, how it's deployed, and what keeps it running**.
 
-I like things that run fast, look clean, and make sense.  
-I enjoy breaking stuff to understand it better, automating small annoyances,  
-and documenting what I learn along the way.  
+I enjoy **Linux, self-hosting, containers, networking, servers, and automation**, mostly by breaking things, fixing them, and rebuilding them better.
 
-Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers of the web...  
+Currently diving deeper into **AWS, Docker, CI/CD, Terraform, Kubernetes, and observability**.
 
 > learning, unlearning, rebuilding — in public.
 
 </td>
 <td width="40%" valign="top" align="left">
 
-
-##### Some blogs I’ve written:
+##### Some blogs I've written:
 <!-- BLOG-POST-LIST:START -->
 - [I Built My Own Smart TV With Linux](https://dev.to/samay15jan/i-built-my-own-smart-tv-with-linux-3173)
 - [Coding Isn’t Dead. It Just Stopped Being My Favorite Part.](https://dev.to/samay15jan/coding-isnt-dead-it-just-stopped-being-my-favorite-part-pmd)
@@ -37,38 +36,53 @@ Right now, I’m diving deeper into **AWS**, **CI/CD**, and the invisible layers
 
 ---
 
-<h1 align="center">
+<div align="center">
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript)
-![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css)
-![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash)
-![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker)
-![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux)
-![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br />
+![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br />
+![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br />
+![AWS](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/oracle%20cloud-%2320232a.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%2320232a.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%2320232a.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Arch Linux](https://img.shields.io/badge/arch%20linux-%2320232a.svg?style=for-the-badge&logo=archlinux)
-![Hackintosh](https://img.shields.io/badge/hackintosh-%2320232a.svg?style=for-the-badge&logo=apple)
-![iOS Sideloading](https://img.shields.io/badge/iOS%20sideloading-%2320232a.svg?style=for-the-badge&logo=apple)
+<br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=samay15jan&theme=omni&hide_border=true)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=samay15jan&theme=github-dark-blue&border_radius=5)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samay15jan&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=samay15jan&max_langs=7&layout=horizontal_list)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=samay15jan&count=1&header_size=compact&bg_color=191622)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=samay15jan&days=90&width=400&height=100)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:samay15jan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/samay15jan/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge)](https://www.youtube.com/@samay15jan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5D3FD3?style=for-the-badge)](https://samay15jan.xyz/)
-[![Blog](https://img.shields.io/badge/Blog-0099CC?style=for-the-badge)](https://blog.samay15jan.xyz/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@samay15jan)
-[![Dev.to](https://img.shields.io/badge/Dev.to-333333?style=for-the-badge)](https://dev.to/samay15jan)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=samay15jan&count=1&radius=4)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samay15jan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samay15jan/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@samay15jan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5D3FD3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samay15jan.com/)
+[![Blog](https://img.shields.io/badge/Blog-0099CC?style=for-the-badge&logo=rss&logoColor=white)](https://blog.samay15jan.com/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samay15jan)
+[![Dev.to](https://img.shields.io/badge/Dev.to-333333?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/samay15jan)
+[![WakaTime](https://img.shields.io/badge/WakaTime-2e8b57?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@05996d75-0b5e-4114-9929-282c87653a7d)
+
+</div>
